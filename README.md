@@ -1,10 +1,12 @@
 # bowling_app
 
-A new Flutter project.
+A new Flutter project about the bowling game app.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+The user click on the launch button and then he will have thoses differents throws and the final score.
 
 A few resources to get you started if this is your first Flutter project:
 
